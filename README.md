@@ -4,5 +4,4 @@
 
 [![Releases](https://img.shields.io/github/release/jxshmendez/sem/all.svg?style=flat-square)](https://github.com/jxshmendez/sem/releases)
 
-# Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/jxshmendez/sem/ A workflow for my Hello World App/<branch>?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/jxshmendez/sem/workflows/main?style=flat-square)
